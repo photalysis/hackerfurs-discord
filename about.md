@@ -1,6 +1,6 @@
 Welcome to the unofficial hackerfurs discord. This is a furry server for fauna with an interest in tech - the old IRC channel can be found at #hackerfurs on irc.anthrochat.net:6667 .
 
-#faq
+# faq
 Q.1: Do I have to be furry to join? How do I know I'm furry?
 A.1: This is a common question for people new to the fandom. "Furry" can be many things that are in between mere interest, subculture, and lifestyle, depending upon who you ask. It is very diverse, and notoriously difficult to categorize. There is no test for furriness, relax! You'll find your niche.
 
