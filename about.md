@@ -25,5 +25,6 @@ Members should be able to have confidence that they can voice concerns or critic
 While we can't guarantee that HFD is a safe space, we do make efforts to be inclusive. This means any conversation that creates an overtly unwelcoming atmosphere for people of a particular race, class, gender, sexuality, nationality, (dis)ability, or religion is not allowed. Irony is a functionally invalid excuse - it is difficult to prove how sincere any person is being, and if users must constantly guess the sincerity of content it undermines the foundations of meaningful communication.
 
 ## Rules
-1. Nazis and white supremacism are not allowed here.
+1. Nazis and white supremacism are not allowed here. This includes /pol/speak.
 2. NSFW content goes in the appropriate channels.
+3. Personal pronouns are respected here - see the user's notes by clicking their icon in the sidebar.
